@@ -79,7 +79,7 @@ struct ProfileView: View {
                 VStack(spacing: 15) {
                     // Секция INFO
                     VStack(alignment: .leading, spacing: 5) {
-                        Text("INFO0")
+                        Text("INFO")
                             .font(.footnote)
                             .fontWeight(.regular)
                             .foregroundColor(.gray)
